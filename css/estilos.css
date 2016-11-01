@@ -11,27 +11,18 @@ p {
 }
 
 aside {
-	position: fixed;
-	top: 0px;
 	text-align: center;
 	width: 30%;
-	margin-top: 15px;
+	margin: 15px 35% 10px 35%;
 	height: 180px;
-	margin-right: 35%;	
-	margin-left: 35%;	
 	box-sizing: border-box;
-	display: block;
-	clear: both;
 }
 
 main {
 	text-align: center;
-	margin-top: 215px;
 	width: 50%;
-	margin-right: 25%;
-	margin-left: 25%;
-	display: block;
-	clear: both;
+	margin: 30px 25% 0px 25%;
+	box-sizing: border-box;
 }
 
 .foto {
